@@ -5,7 +5,7 @@
 
 <!-- Anime Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Anime coder working at a computer">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNtbXRmd2V4d2FjMHJmeDJ3bmV2YWU4dXhnNXBhMXZqbW5mbHA4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QfCQQQAI860CXZY9qs/giphy.gif" width="300" alt="Anime coder working at a computer">
 </p>
 
 ---
