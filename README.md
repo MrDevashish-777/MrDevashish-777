@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Yokoso,+watashi+no+purofiruru+I'm+Devashish+Pillay!;Full+Stack+%7C+AI+Developer;Anime+Lover+%7C+Cyberpunk+Visionary;Let's+Code+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Yokoso+watashi+no+purofiruru+I'm+Devashish+Pillay!;Full+Stack+%7C+AI+Developer;Anime+Lover+%7C+Cyberpunk+Visionary;Let's+Code+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Anime Banner -->
